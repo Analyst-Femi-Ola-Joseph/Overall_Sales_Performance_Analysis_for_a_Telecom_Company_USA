@@ -11,6 +11,9 @@ Various aspects of the company’s sales transaction data generated over the pas
 We seek to identify Top performing customers, products, channels of sales , region , trends, and the overall performance of the company , to enable the company to make data-driven decisions/recommendations and to gain a deeper understanding of the company’s overall performance
 
 ## Table of Content
+
+[Project Overview](Project-Overview)<br> <br>
+
 [Data Sources](Data-Sources)<br> <br>
 
 [Data Analysis Tools Used](Data-Analysis-Tools-Used)<br> <br>
@@ -50,10 +53,10 @@ The results were downloaded and saved as  the following csv files below
 - __Database Inspection__ : In the initial data collection phase , I  inspected the company’s database using SQL code  to check for missing data (NULL) in each of the tables in the company’s database.
 - I extracted the  required data for the purpose of the data analysis project using SQL complex query and SQL data aggregation .  
 ## Data Cleaning: 
-I used SQL codes to clean and format the data to conform to the required data format.
-I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
+- I used SQL codes to clean and format the data to conform to the required data format.
+- I downloaded the result of my SQL Queries from the company’s database  as a csv file to my PC. 
 ## Loading Data into Power BI:
-I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report
+- I loaded the downloaded csv files into Power BI for the purpose of Data Visualization and Building interactive dashboard/report
 
 ## Exploratory Data Analysis (EDA): 
 EDA involves exploring the sales data in order to answer some key questions such as : 
