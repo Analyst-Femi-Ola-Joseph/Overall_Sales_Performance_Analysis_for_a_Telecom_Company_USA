@@ -137,6 +137,17 @@ GROUP BY year
 ORDER BY year ASC
 
 ```
+
+
+<img width="953" alt="Sales Performance By Channels_screenshoot" src="https://github.com/user-attachments/assets/4be4b841-9167-4631-8117-1b7df21ff8ff">
+
+<img width="951" alt="Customer Performance Screenshoot" src="https://github.com/user-attachments/assets/31edb6fa-ea51-4ec3-b27a-6064869d9423">
+
+
+<img width="952" alt="Regional Performance _Screenshoot" src="https://github.com/user-attachments/assets/dd40ed09-027c-447e-b509-281d679f535c">
+
+<img width="959" alt="Yearly Revenue Trend _Screenshoot" src="https://github.com/user-attachments/assets/9e2b4ffe-9447-4196-9e8f-4e72c3896803">
+
 ## Results and Findings: 
 
 The Analysis Results is summarised as follows: 
